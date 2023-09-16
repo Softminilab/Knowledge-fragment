@@ -6,5 +6,9 @@
         <page name='集合类型'/>
         <page name='Functions'/>
         <page name='属性包装器'/>
+        <page name='方法'/>
+        <page name='ErrorHandling'/>
+        <page name='Concurrency'/>
+        <page name='subscript'/>
     </pages>
 </playground>

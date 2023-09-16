@@ -26,3 +26,36 @@ print(rectangle.height)
 
 rectangle.height = 30
 print(rectangle.height)
+
+
+
+struct TestNumber{
+    public private(set) var number: Int = 0
+    
+    mutating func adjust() {
+        number = 100
+    }
+}
+
+
+var test = TestNumber()
+//test.number = 10
+
+test.adjust()
+
+print(test.number)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
