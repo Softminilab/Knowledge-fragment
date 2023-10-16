@@ -10,5 +10,8 @@
         <page name='ErrorHandling'/>
         <page name='Concurrency'/>
         <page name='subscript'/>
+        <page name='protocol'/>
+        <page name='generic'/>
+        <page name='ARC'/>
     </pages>
 </playground>
