@@ -13,5 +13,6 @@
         <page name='protocol'/>
         <page name='generic'/>
         <page name='ARC'/>
+        <page name='type'/>
     </pages>
 </playground>
